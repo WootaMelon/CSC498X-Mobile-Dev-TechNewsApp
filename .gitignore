@@ -1,6 +1,9 @@
 .gradle
-.DS_Store
 /build/
+
+# OSX
+#
+.DS_Store
 
 # Ignore Gradle GUI config
 gradle-app.setting
